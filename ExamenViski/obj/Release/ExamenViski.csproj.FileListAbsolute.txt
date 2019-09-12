@@ -1,0 +1,12 @@
+C:\Users\asp\source\repos\ExamenViski\ExamenViski\bin\Release\ExamenViski.exe.config
+C:\Users\asp\source\repos\ExamenViski\ExamenViski\bin\Release\ExamenViski.exe
+C:\Users\asp\source\repos\ExamenViski\ExamenViski\bin\Release\ExamenViski.pdb
+C:\Users\asp\source\repos\ExamenViski\ExamenViski\obj\Release\ExamenViski.csprojAssemblyReference.cache
+C:\Users\asp\source\repos\ExamenViski\ExamenViski\obj\Release\ExamenViski.Properties.Resources.resources
+C:\Users\asp\source\repos\ExamenViski\ExamenViski\obj\Release\ExamenViski.csproj.GenerateResource.cache
+C:\Users\asp\source\repos\ExamenViski\ExamenViski\obj\Release\ExamenViski.csproj.CoreCompileInputs.cache
+C:\Users\asp\source\repos\ExamenViski\ExamenViski\obj\Release\ExamenViski.exe
+C:\Users\asp\source\repos\ExamenViski\ExamenViski\obj\Release\ExamenViski.pdb
+C:\Users\asp\source\repos\ExamenViski\ExamenViski\bin\Release\ConvertorCore.dll
+C:\Users\asp\source\repos\ExamenViski\ExamenViski\obj\Release\ExamenViski.ConvertorCore.resources
+C:\Users\asp\source\repos\ExamenViski\ExamenViski\obj\Release\ExamenViski.csproj.CopyComplete

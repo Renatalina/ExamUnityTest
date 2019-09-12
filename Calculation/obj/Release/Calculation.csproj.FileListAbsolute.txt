@@ -1,0 +1,2 @@
+C:\Users\asp\source\repos\ExamenViski\Calculation\obj\Release\Calculation.csprojAssemblyReference.cache
+C:\Users\asp\source\repos\ExamenViski\Calculation\obj\Release\Calculation.csproj.CoreCompileInputs.cache
